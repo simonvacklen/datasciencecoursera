@@ -1,0 +1,28 @@
+These are the variable of the dataset "DF2"
+
+
+"Subject_ID" - Number signifying each participating person 
+"Activity"   - Activities each person is performing
+	Levels:
+	"LAYING"
+        "SITTING"            
+	"STANDING"          
+	"WALKING"            
+	"WALKING_DOWNSTAIRS" 
+	"WALKING_UPSTAIRS"  
+"Variable"  - The variable describes what measure the "Mean" variable contains - which is mean and standard deviation of the accelerometer and gyroscope, across 3 axis
+	Levels:
+	"Accelerometer_Mean_X" 
+	"Accelerometer_Mean_Y" 
+	"Accelerometer_Mean_Z"
+	"Accelerometer_Std_X"  
+	"Accelerometer_Std_Y"  
+	"Accelerometer_Std_Z" 
+	"Gyroscope_Mean_X"     
+	"Gyroscope_Mean_Y"     
+	"Gyroscope_Mean_Z"    
+	"Gyroscope_Std_X"      
+	"Gyroscope_Std_Y"      
+	"Gyroscope_Std_Z"
+"Mean"    - The actual mean and standard deviation and 
+   
