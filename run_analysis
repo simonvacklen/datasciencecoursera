@@ -1,4 +1,4 @@
-Enter file contents here
+
 ##Installing and loading necessary packages
 install.packages("plyr")
 install.packages("reshape2")
