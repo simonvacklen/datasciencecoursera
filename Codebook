@@ -24,5 +24,5 @@ These are the variable of the dataset "DF2"
 	"Gyroscope_Std_X"      
 	"Gyroscope_Std_Y"      
 	"Gyroscope_Std_Z"
-"Mean"    - The actual mean and standard deviation and 
+"Mean"    - The actual mean and standard deviation of each variable named in "Variable"
    
